@@ -75,7 +75,14 @@
 
 # Как настроить на Windows
 
-1. Скачиваем [программу](https://github.com/MatsuriDayo/nekoray/releases/download/3.9/nekoray-3.9-2023-06-27-windows64.zip) 
+1. Скачиваем [программу]([https://github.com/MatsuriDayo/nekoray/releases/download/3.9/nekoray-3.9-2023-06-27-windows64.zip](https://github.com/throneproj/Throne/releases/download/1.1.1/Throne-1.1.1-windows64-installer.exe)) 
 2. Устанавливаем
-3. Добавляем конфиг из бота
+3. Запускаем программу от имени администратора <img width="555" height="524" alt="image" src="https://github.com/user-attachments/assets/f5405dc0-96b1-44e7-8f0f-a874b63e8d9a" />
+4. Копируем ссылку которую нам дал бот <img width="525" height="231" alt="image" src="https://github.com/user-attachments/assets/3227ef66-8126-435d-85bf-66f452f817ec" />
+5. Возвращаемся в окно с программой и нажимаем Приложение -> Добавить профиль из буфера обмена <img width="466" height="385" alt="image" src="https://github.com/user-attachments/assets/5f213351-b1c6-4fb0-a5fe-510a19fef587" />
+6. Далее соглашаемся <img width="571" height="241" alt="image" src="https://github.com/user-attachments/assets/42a2c4f9-46b1-4c20-bb37-7ddbaddcffff" />
+7. Появится что-то подобное <img width="1789" height="896" alt="image" src="https://github.com/user-attachments/assets/82bf7adf-5b40-4c13-9995-2a247486279f" />
+8. Далее включаем Режим TUN <img width="944" height="131" alt="image" src="https://github.com/user-attachments/assets/d3189d43-4951-48b7-b70a-b53be079bda5" />
+9. Далее правой кнопкой по профилю и Запустить <img width="641" height="523" alt="image" src="https://github.com/user-attachments/assets/372b39f8-379f-4acd-a65a-7d20778743b0" />
+10. Готово!
 # Распространенные проблемы
